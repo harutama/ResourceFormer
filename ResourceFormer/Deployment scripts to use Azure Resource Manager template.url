@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://gallery.technet.microsoft.com/scriptcenter/Deployment-to-use-Azure-758675d6
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://gallery.technet.microsoft.com/scriptcenter/Deployment-to-use-Azure-758675d6
+IDList=
+IconFile=http://i1.gallery.technet.s-msft.com/scriptcenter/GlobalResources/images/Technet/favicon.ico
+IconIndex=1

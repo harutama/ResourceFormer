@@ -1,0 +1,12 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2014-04-01-preview/deploymentParameters.json",
+    "parameterValues": {
+        "siteName": "<Enter Your Globally-Unique WebSite Name>",
+        "hostingPlanName": "<Enter Your Hosting Plan Name>",
+        "siteLocation": "<Enter Your WebSite Location>",
+        "serverName": "<Enter Your Globally-Unique Server Name>",
+        "serverLocation": "<Enter Your Server Location>",
+        "administratorLogin": "<Enter Your Server Admin Name>",
+        "databaseName": "<Enter Your Database Name>"
+    }
+}
